@@ -157,13 +157,15 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulshinde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahulshinde&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulshinde&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=Rahul-bot-star-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Rahul-bot-star-sudo&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-bot-star-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Rahul-bot-star-sudo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
