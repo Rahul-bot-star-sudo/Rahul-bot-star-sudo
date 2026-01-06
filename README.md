@@ -25,7 +25,7 @@
 
 ## 🧠 About Me
 
-```ts
+
 const rahul = {
   role: "Full Stack Developer (Backend-Oriented)",
   languages: ["JavaScript", "TypeScript", "Python"],
@@ -141,5 +141,5 @@ Great architecture scales.”
 <!-- ===================== Footer ===================== --><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
 </p>
-```
+
 ---
