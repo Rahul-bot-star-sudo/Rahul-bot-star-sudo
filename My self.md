@@ -15,10 +15,12 @@
 <a href="https://github.com/Rahul-bot-star-sudo/github-stats">
 
   <!-- 🌙 Dark Mode -->
-   <img src="https://github.com/Rahul-bot-star-sudo/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Rahul-bot-star-sudo/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/Rahul-bot-star-sudo/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/Rahul-bot-star-sudo/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 
-<img src="https://github.com/Rahul-bot-star-sudo/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/Rahul-bot-star-sudo/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+  <!-- ☀️ Light Mode -->
+  <img src="https://raw.githubusercontent.com/Rahul-bot-star-sudo/github-stats/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/Rahul-bot-star-sudo/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 
 </a>
+
