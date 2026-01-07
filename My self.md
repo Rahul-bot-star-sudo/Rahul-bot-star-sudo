@@ -10,3 +10,16 @@
 [![](https://visitcount.itsvg.in/api?id=Rahul-bot-star-sudo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats Visualization
+
+<a href="https://github.com/Rahul-bot-star-sudo/github-stats">
+
+  <!-- 🌙 Dark Mode -->
+  <img src="https://github.com/Rahul-bot-star-sudo/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/Rahul-bot-star-sudo/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+
+  <!-- ☀️ Light Mode -->
+  <img src="https://github.com/Rahul-bot-star-sudo/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://github.com/Rahul-bot-star-sudo/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+
+</a>
