@@ -155,19 +155,22 @@
 ---
 
 ## 📈 GitHub Stats
----
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Rahul-bot-star-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Rahul-bot-star-sudo&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-bot-star-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul-bot-star-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Rahul-bot-star-sudo&theme=dark&hide_border=false" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-bot-star-sudo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rahul-bot-star-sudo&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Rahul-bot-star-sudo&icon=0&color=0" />
+</div>
 ---
 
 ## 🎓 System Design & Architecture Knowledge
