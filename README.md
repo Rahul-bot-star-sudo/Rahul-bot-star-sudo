@@ -17,11 +17,11 @@
 
 ## 🎯 Quick Overview
 ```plaintext
-🚀 2+ years of hands-on development experience
-💻 Built 8+ production-ready backend systems
-🏗️ Specialized in REST APIs, Authentication & Database Design
+🚀 Hands-on experience building backend applications with SpringBoot 
+💻 Developed multiple backend systems including authentication and REST APIs
+🏗️ Experienced in building REST APIs, authentication systems and database schema design
 📚 Strong foundation in DSA, System Design & Clean Architecture
-🎓 Continuous learner committed to engineering excellence
+🎓 Continuous learner focused on improving software engineering skills
 ```
 
 ---
