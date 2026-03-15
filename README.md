@@ -2,7 +2,7 @@
   
 # 👋 Rahul Shinde
 
-### Full Stack Developer | Backend Specialist | System Design Enthusiast
+### Full Stack Developer | Backend Developer | System Design Enthusiast
 
 **Building scalable systems · Writing clean code · Solving real problems**
 
