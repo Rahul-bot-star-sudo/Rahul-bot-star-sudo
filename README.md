@@ -55,8 +55,8 @@
 <td width="33%" valign="top">
 
 ### 🚀 Full Stack Skills
-- Frontend: Angular, Tailwind CSS
-- Backend: Node.js, Express
+- Frontend: React, Tailwind CSS
+- Backend: SpringBoot
 - Databases: MongoDB, PostgreSQL
 - Tools: Git, Docker, Postman
 - DevOps Basics: CI/CD, Linux
