@@ -206,12 +206,11 @@
 
 ## 🏆 Achievements & Highlights
 ```diff
-+ Built 8+ backend systems from scratch to deployment
++ Built "WorkNest" – a company management backend system featuring authentication, role-based access control and RESTful APIs, developed using React, SpringBoot and PostgreSql and deployed for real-world usage.
 + Optimized database queries reducing latency by 60%
 + Implemented caching strategies improving response time by 50%
 + Wrote 500+ hours of production-quality code
 + Solved 150+ DSA problems (LeetCode/GeeksforGeeks)
-+ Mentored 3 junior developers on best practices
 ```
 
 ---
