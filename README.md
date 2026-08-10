@@ -6,8 +6,8 @@
 
 **Building scalable systems · Writing clean code · Solving real problems**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rahulshinde)
-[![Email](https://img.shields.io/badge/Email-rahul%40example.com-D14836?style=flat-square&logo=gmail)](mailto:rahul@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rahulshinde077/)
+[![Email](https://img.shields.io/badge/Email-rahulshinde2577%40example.com-D14836?style=flat-square&logo=gmail)](mailto:rahul@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C6FF?style=flat-square&logo=google-chrome)](https://yourportfolio.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=rahulshinde&color=00C6FF&style=flat-square)
 
